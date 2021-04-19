@@ -1,0 +1,49 @@
+Similar to Bebop (Plot only) Action, Adventure, Comedy, Drama, Sci-Fi, Space
+145                       Cowboy Bebop: Tengoku no Tobira | Action, Drama, Mystery, Sci-Fi, Space
+1471                      Cowboy Bebop: Yose Atsume Blues | Action, Adventure, Comedy, Drama, Sci-Fi, Space
+399          Uchuu Senkan Yamato 2202: Ai no Senshi-tachi | Action, Drama, Military, Sci-Fi, Space
+281                                 Mobile Suit Gundam 00 | Action, Military, Sci-Fi, Space, Drama, Mecha
+1441                                        Tenchi Muyou! | Comedy, Harem, Romance, Sci-Fi, Shounen, Space
+114                              Uchuu Senkan Yamato 2199 | Action, Military, Sci-Fi, Space, Drama
+972                                 Yowamushi Pedal Movie | Comedy, Drama, Shounen, Sports
+17                     Code Geass: Hangyaku no Lelouch R2 | Action, Military, Sci-Fi, Super Power, Drama, Mecha
+59                           Mushishi Special: Hihamukage | Adventure, Slice of Life, Mystery, Historical, Supernatural, Fantasy, Seinen
+1164    Slam Dunk: Zenkoku Seiha Da! - Sakuragi Hanamichi | Slice of Life, Comedy, Sports, Drama, School, Shounen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Similar to Bebop (Plot and genre) Action, Adventure, Comedy, Drama, Sci-Fi, Space
+145                       Cowboy Bebop: Tengoku no Tobira | Action, Drama, Mystery, Sci-Fi, Space
+1471                      Cowboy Bebop: Yose Atsume Blues | Action, Adventure, Comedy, Drama, Sci-Fi, Space
+399          Uchuu Senkan Yamato 2202: Ai no Senshi-tachi | Action, Drama, Military, Sci-Fi, Space
+281                                 Mobile Suit Gundam 00 | Action, Military, Sci-Fi, Space, Drama, Mecha
+1441                                        Tenchi Muyou! | Comedy, Harem, Romance, Sci-Fi, Shounen, Space
+114                              Uchuu Senkan Yamato 2199 | Action, Military, Sci-Fi, Space, Drama
+972                                 Yowamushi Pedal Movie | Comedy, Drama, Shounen, Sports
+17                     Code Geass: Hangyaku no Lelouch R2 | Action, Military, Sci-Fi, Super Power, Drama, Mecha
+59                           Mushishi Special: Hihamukage | Adventure, Slice of Life, Mystery, Historical, Supernatural, Fantasy, Seinen
+1164    Slam Dunk: Zenkoku Seiha Da! - Sakuragi Hanamichi | Slice of Life, Comedy, Sports, Drama, School, Shounen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Similar to Bebop (Genre only) (Sigmoid) Action, Adventure, Comedy, Drama, Sci-Fi, Space
+1471              Cowboy Bebop: Yose Atsume Blues | Action, Adventure, Comedy, Drama, Sci-Fi, Space
+1098                      Waga Seishun no Arcadia | Action, Adventure, Drama, Sci-Fi, Space
+1367     Waga Seishun no Arcadia: Mugen Kidou SSX | Action, Adventure, Drama, Sci-Fi, Space
+1211                                 R.O.D the TV | Action, Sci-Fi, Adventure, Comedy, Super Power, Drama
+532            Digimon Adventure tri. 3: Kokuhaku | Action, Adventure, Comedy, Drama
+1024             Digimon Adventure tri. 2: Ketsui | Action, Adventure, Comedy, Drama
+1193             Digimon Adventure tri. 1: Saikai | Action, Adventure, Comedy, Drama
+1313          Digimon Adventure tri. 4: Soushitsu | Action, Adventure, Comedy, Drama
+692     Urusei Yatsura Movie 2: Beautiful Dreamer | Action, Adventure, Comedy, Romance, Drama, Sci-Fi
+373                           Mirai Shounen Conan | Adventure, Drama, Sci-Fi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Similar to Bebop (Genre only) (Cosine Sim)
+1471                Cowboy Bebop: Yose Atsume Blues | Action, Adventure, Comedy, Drama, Sci-Fi, Space
+215                                          Trigun | Action, Sci-Fi, Adventure, Comedy, Drama, Shounen
+462                         Trigun: Badlands Rumble | Action, Adventure, Comedy, Drama, Sci-Fi, Shounen
+692       Urusei Yatsura Movie 2: Beautiful Dreamer | Action, Adventure, Comedy, Romance, Drama, Sci-Fi
+742     Mobile Suit Gundam III: Encounters in Space | Action, Military, Sci-Fi, Adventure, Space, Drama, Mecha
+793                   Uchuu Kaizoku Captain Herlock | Action, Sci-Fi, Adventure, Space, Drama, Seinen
+935                                   Turn A Gundam | Action, Military, Sci-Fi, Adventure, Space, Drama, Romance, Mecha
+936                                  Urusei Yatsura | Action, Sci-Fi, Adventure, Comedy, Drama, Romance
+1061                            Uchuu Senkan Yamato | Action, Adventure, Drama, Military, Sci-Fi, Space
+1098                        Waga Seishun no Arcadia | Action, Adventure, Drama, Sci-Fi, Space
